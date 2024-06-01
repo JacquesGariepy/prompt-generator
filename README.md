@@ -1,4 +1,4 @@
-# prompt-generator - Agent Autonome pour la Génération de Prompts
+# Agent Autonome pour la Génération de Prompts
 
 Ce projet utilise l'API OpenAI pour créer un agent autonome capable de générer et d'ajuster des prompts basés sur les demandes et les feedbacks des utilisateurs.
 
