@@ -1,5 +1,5 @@
 from openai import OpenAI
-client = OpenAI(api_key='')
+client = OpenAI(api_key='sk-xxxxx')
 
 # Définition de la classe AgentAutonome
 class AgentAutonome:
